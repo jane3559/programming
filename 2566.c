@@ -7,7 +7,7 @@ int main(void)
 	int result;
 	int width, height;
 	
-	for(int i = 0; i<9; i++)// i > 1~9
+	for(int i = 0; i<9; i++)
 	{
 		scanf("%d %d %d %d %d %d %d %d %d", &extent[i][0], &extent[i][1], &extent[i][2]
 										, &extent[i][3], &extent[i][4], &extent[i][5]
