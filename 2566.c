@@ -2,10 +2,10 @@
 
 int main(void)
 {
-	int extent[9][9]; //9*9?עק 
-	int max[9]; //??? ?? ?עק 
-	int result; //??? 
-	int width, height;//??, ?? 
+	int extent[9][9];
+	int max[9];
+	int result;
+	int width, height;
 	
 	for(int i = 0; i<9; i++)// i > 1~9
 	{
